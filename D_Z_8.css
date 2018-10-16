@@ -1,0 +1,150 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.about{
+    max-width: 1280px;
+    /* background-image: url(./img/namaste_green.jpg); */
+    /* height: 1000px; */
+    margin: 0 auto;}
+
+.container{
+    max-width: 940px;
+    margin: 0 auto;
+  
+}
+
+.col {
+    padding: 0 15px;
+    float: left;
+    box-sizing: border-box;
+    /* border: 1px solid #333; */
+   
+}
+.col_3{
+    width: 25%;
+
+}
+.col_8{
+
+   width: 66.6666666667%;
+}
+.col_12{
+    width: 100%;
+}
+
+.clear {
+    clear: both;
+    height: 1px;
+}
+.row{
+   
+     margin: 0 -20;     
+}
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+.title{
+    text-transform: uppercase;
+    text-align: center;
+    
+    margin: 0 auto;
+    padding-bottom: 75px; 
+/* margin:0 46px 0 43px; */
+}
+
+.title>p{
+    font-size: 12px;
+    font-family: "Montserrat";
+    color:  #898f99;
+    font-weight: 700;
+    
+    line-height: 30px;
+    padding-top: 120px;
+    padding-left: 25px;
+    letter-spacing: 4.5px;
+   
+
+  
+}
+.title>h1{
+    font-family: "Montserrat";
+    font-size: 48px;
+    line-height: 0.625;
+    color: rgb( 14, 200, 203 );
+    letter-spacing: 5px;
+    margin-top: 25px;
+    /* padding-left: 25px; */
+
+}
+.title>h2{
+    font-size: 18px;
+    font-family: "PTSans";
+    color: rgb( 153, 153, 153 );
+    line-height: 1.667;
+    padding: 8px 20px;
+    font-weight: 400;
+}
+
+
+.iconboxes>div{
+    height: 420px;
+   background: #f7f7f7; 
+    text-align: center;
+    border-left: 1px solid #ededed;
+}
+
+.iconboxes>div>i{
+margin-top: 55px;
+font-size: 60px;
+color: rgb( 27, 27, 27 ); 
+
+}
+.iconboxes>div>h1{
+    font-size: 21px;
+    font-family: "Montserrat";
+    color: rgb( 27, 27, 27 );
+    text-transform: uppercase;
+    padding-top: 42px;
+    
+}
+.iconboxes>div>h1.icon_2{
+    font-size: 21px;
+    font-family: "Montserrat";
+    color: rgb( 27, 27, 27 );
+    text-transform: uppercase;
+    padding-top: 32px;
+    
+}
+
+.iconboxes>div>p{
+    font-size: 14px;
+    font-family: "PTSans";
+    color: rgb( 119, 119, 119 );
+    line-height: 1.571;
+    padding: 10px;
+    /* letter-spacing: 2px; */
+}
+
+.iconboxes>div:hover{
+   
+    background:  #0ec8cb;  
+    /* color: #fff; */
+ }
+ .iconboxes>div:hover h1 {
+    
+   
+      color: #fff;
+   }
+   .iconboxes>div:hover p {
+    
+    
+      color: #fff;
+   }
+   .iconboxes>div:hover i {
+    
+   
+      color: #fff;
+   }
