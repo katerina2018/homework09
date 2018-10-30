@@ -81,7 +81,7 @@ body{
 }
 .title>h2{
     font-size: 18px;
-    font-family: "PTSans";
+    font-family: "PT Sans";
     color: rgb( 153, 153, 153 );
     line-height: 1.667;
     padding: 8px 20px;
@@ -121,7 +121,7 @@ color: rgb( 27, 27, 27 );
 
 .iconboxes>div>p{
     font-size: 14px;
-    font-family: "PTSans";
+    font-family: "PT Sans";
     color: rgb( 119, 119, 119 );
     line-height: 1.571;
     padding: 10px;
